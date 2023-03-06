@@ -19,7 +19,7 @@ response = openai.ChatCompletion.create(
 print(response['choices'][0]['message']['content'])
 
 # import openai
-# openai.api_key = "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"
+# openai.api_key = "sk-sd"
 
 # prompt = "Hello, how are you?"
 # response = openai.Completion.create(
